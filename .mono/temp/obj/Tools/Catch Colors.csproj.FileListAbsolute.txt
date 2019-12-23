@@ -1,0 +1,9 @@
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\bin\Tools\Catch Colors.dll
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\bin\Tools\Catch Colors.pdb
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\obj\Tools\Catch Colors.csprojAssemblyReference.cache
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\obj\Tools\Catch Colors.csproj.CoreCompileInputs.cache
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\obj\Tools\Catch Colors.dll
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\obj\Tools\Catch Colors.pdb
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\bin\Tools\Newtonsoft.Json.dll
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\bin\Tools\Newtonsoft.Json.xml
+D:\Projets\Games\Godot\Catch Colors\.mono\temp\obj\Tools\Catch Colors.csproj.CopyComplete
